@@ -1,6 +1,8 @@
 # diceee
 
 A new Flutter project.
+roll the dice by clicking on the images.
+App is build from scratch without the use of any packages or api, let me know if there is any bug in the app.
 
 ## Getting Started
 
